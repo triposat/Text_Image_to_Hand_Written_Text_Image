@@ -18,6 +18,7 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Text_Image_to_Hand_Written_
 - pip install **pywhatkit**
 - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki); scroll down to find the latest installers for **32-bit** and **64-bit** systems; download them as needed.
 - Load the image you want to convert.
+- Read complete article [**here**](https://www.geeksforgeeks.org/convert-text-image-to-hand-written-text-image-using-python/)
 
 ## Output:
 ### Before:
