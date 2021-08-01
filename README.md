@@ -19,5 +19,9 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Text_Image_to_Hand_Written_
 - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki); scroll down to find the latest installers for **32-bit** and **64-bit** systems; download them as needed.
 - Load the image you want to convert.
 
-## Output: 
+## Output:
+### Before:
+<p align="center"><img src="https://user-images.githubusercontent.com/69134468/127762972-7f53ccaa-6b5b-4b08-993c-fd8ecb77cef5.png"></p>
+
+### After:
 <p align="center"><img width="80%"src="https://user-images.githubusercontent.com/69134468/127762869-18ab3a15-6148-4ff7-9810-545baa48a798.png"></p>
