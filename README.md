@@ -21,7 +21,7 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Text_Image_to_Hand_Written_
 
 ## Output:
 ### Before:
-<p align="center"><img src="https://user-images.githubusercontent.com/69134468/127762972-7f53ccaa-6b5b-4b08-993c-fd8ecb77cef5.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69134468/127763091-3e915372-20f0-4629-9a6c-c8b7dbfcbdfd.png"></p>
 
 ### After:
 <p align="center"><img width="80%"src="https://user-images.githubusercontent.com/69134468/127762869-18ab3a15-6148-4ff7-9810-545baa48a798.png"></p>
